@@ -1,5 +1,5 @@
 # MSS70 Flasher for the Z4M
-Tool to read the MSS70 DME.
+Tool to read the MSS70 DME. The end goal will be to prove write facilities too but at the moment that is out of my reach.
 
 
 ### Prerequisites
@@ -13,7 +13,7 @@ If you don't have / want Ediabas installed, you will need to find a copy of MSS7
 
 
 ### Usage
-Change the settings as necessary in the 'MS45 Flasher.exe.config' file. 
+Change the settings as necessary in the 'MSS70 Flasher.exe.config' file. 
 Default port is COM1, default sgbd directory is C:\Ediabas\ECU, and default sgbd is D_Motor.GRP (should automatically resolve to MSS70.prg if connected to an MSS70 DME)
 
 
