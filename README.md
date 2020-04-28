@@ -1,3 +1,5 @@
+# Please don't judge my code, I'm really not a programmer by trade, everything I have managed to achieve is self taught trial and error
+
 # MSS70 Flasher for the Z4M
 Tool to read the MSS70 DME. The end goal will be to prove write facilities too but at the moment that is out of my reach.
 
