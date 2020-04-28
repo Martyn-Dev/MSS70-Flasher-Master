@@ -1,4 +1,4 @@
-Please don't judge my code, I'm really not a programmer by trade, everything I have managed to achieve is self taught trial and error
+Please don't judge my code, I'm really not a programmer by trade, everything I have managed to achieve is self taught trial and error :)
 
 # MSS70 Flasher for the Z4M
 Tool to read the MSS70 DME. The end goal will be to prove write facilities too but at the moment that is out of my reach.
@@ -26,9 +26,11 @@ If successful, the application should autopopulate some information from your DM
 ##### Reading your DME
 For the tune, simply click "Read DME". 
 
-You will be prompted whether you wish to take a full read or a partial read. The full read is a full backup of your flash, this contains the program and parameter space.
+You will be prompted whether you wish to take a full read or a partial read. 
 
-The partial is just the parameter space.
+The full read is a full backup of your flash, this contains the program and parameter space and takes around 50 minutes to complete.
+
+The partial read is just the parameter space and takes around 3 mins to complete.
 
 Save the file(s) whereever you like
 
