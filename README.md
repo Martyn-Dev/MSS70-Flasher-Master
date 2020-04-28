@@ -26,11 +26,11 @@ If successful, the application should autopopulate some information from your DM
 ##### Reading your DME
 For the tune, simply click "Read DME". 
 
-If you would like to backup your full flash, check the "full binary" checkbox before clicking "Read DME"
-A full backup will result in two files. The _Flash file is the external flash of your DME, and the _mpc file contains the data that's internal to the CPU. You need both of these
+You will be prompted whether you wish to take a full read or a partial read. The full read is a full backup of your flash, this contains the program and parameter space.
+
+The partial is just the parameter space.
 
 Save the file(s) whereever you like
-
 
 ## Built using
 
